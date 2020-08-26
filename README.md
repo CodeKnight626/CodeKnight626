@@ -31,7 +31,7 @@ You can check both of them on my repositories :)
 
 ### Discord: Cesar#7179
 
-### <a href="https://twitter.com/fonz626" target="_blank"> Twitter </a>
+### <a href="https://twitter.com/spacecowboy626" target="_blank"> Twitter </a>
 
 <!--
 **fonz626/fonz626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
