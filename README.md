@@ -29,7 +29,7 @@ You can check both of them on my repositories :)
 
 ## Contact me
 
-### Discord: Cesar#7179
+### Discord: Space Cowboy#7179
 
 ### <a href="https://twitter.com/spacecowboy626" target="_blank"> Twitter </a>
 
