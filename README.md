@@ -20,14 +20,14 @@ You can check both of them on my repositories :)
 ## Skills 
 
 <p align="center">
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/python.png' height='50px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/cpp.png' height='50px'>
-  <img src='https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg' height='50px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/python.png' height='75px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/cpp.png' height='75px'>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg' height='75px'>
 </p>
 <p align="center">
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/html.png' height='50px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/css.png' height='50px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/javascript.jpg' height='50px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/html.png' height='75px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/css.png' height='75px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/javascript.jpg' height='75px'>
 </p>
 
 ## Contact me
