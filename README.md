@@ -6,6 +6,9 @@ I make bots for discord and telgram for hobby, and program robots for a living
 I'm intersted in learn about AI as much as I can.
 
 ## Currently
+...
+
+## Open Proyects that I hasn't finished
 I am working on a bot for Telgram to make an assistant that helps me through everyday tasks.
 
 And a discord bot, thought to help the players to look for information in "Monster Hunter" games.
