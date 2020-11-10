@@ -1,12 +1,11 @@
 <img align='right' src='https://24.media.tumblr.com/94a98ef70a98825b1ca2eae643306ebc/tumblr_mll74blaLZ1r0y8j6o1_400.gif' width='20%'> 
 
 # Bio
-I make bots for discord and telgram for hobby, and program robots for a living
-
-I'm intersted in learn about AI as much as I can.
+I make bots for discord and telgram for hobby, do some python scripting, AI and program robots for a living
 
 ## Currently
-...
+Still programming a bot for our own discord server. Check it out!!
+<a href="https://github.com/CodeKnight626/spaceCowBot-discord-bot">Here!!</a>
 
 ## Open Proyects that I hasn't finished
 I am working on a bot for Telgram to make an assistant that helps me through everyday tasks.
@@ -22,6 +21,7 @@ You can check both of them on my repositories :)
 <p align="center">
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/python.png' height='75px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/cpp.png' height='75px'>
+  <img src='https://camo.githubusercontent.com/a3c9f299797a65df6f8150514172d4324aba6e467feacdf6f749721c519a1ffc/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f372f37612f435f53686172705f6c6f676f2e737667' height='75px'>
   <img src='https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg' height='75px'>
 </p>
 <p align="center">
