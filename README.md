@@ -1,19 +1,18 @@
 <img align='right' src='https://24.media.tumblr.com/94a98ef70a98825b1ca2eae643306ebc/tumblr_mll74blaLZ1r0y8j6o1_400.gif' width='20%'> 
 
 # Bio
-I make bots for discord and telgram for hobby, do some python scripting, AI and program robots for a living
+I make bots for discord and telegram for hobby, do some python scripting, AI and I program robots for a living.
 
 ## Currently
 Still programming a bot for our own discord server. Check it out!!
 <a href="https://github.com/CodeKnight626/spaceCowBot-discord-bot">Here!!</a>
 
 ## Open Proyects that I hasn't finished
-I am working on a bot for Telgram to make an assistant that helps me through everyday tasks.
 
 And a discord bot, thought to help the players to look for information in "Monster Hunter" games.
 <img align='center' src='https://pa1.narvii.com/6596/914cbf77f0e8b7820c099c355202b14cf5973f64_hq.gif' width='50%'>
 
-You can check both of them on my repositories :)
+You can check them on my repositories :)
 
 
 ## Skills 
