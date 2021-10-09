@@ -20,7 +20,6 @@ You can check them on my repositories :)
 <p align="center">
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/python.png' height='75px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/cpp.png' height='75px'>
-  <img src='https://camo.githubusercontent.com/a3c9f299797a65df6f8150514172d4324aba6e467feacdf6f749721c519a1ffc/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f372f37612f435f53686172705f6c6f676f2e737667' height='75px'>
   <img src='https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg' height='75px'>
 </p>
 <p align="center">
